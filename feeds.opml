@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+<head><title>Svensk privatekonomi och boende: kuraterade resurser</title></head>
+<body>
+  <outline text="Bank, sparande och privatekonomi">
+    <outline type="rss" text="Aktiestrategi" xmlUrl="https://www.aktiestrategi.se/feed/" htmlUrl="https://www.aktiestrategi.se/"/>
+    <outline type="rss" text="Open Banking" xmlUrl="https://www.banking.se/feed/" htmlUrl="https://www.banking.se/"/>
+    <outline type="rss" text="Banktjänst" xmlUrl="https://www.banktjanst.nu/feed/" htmlUrl="https://www.banktjanst.nu/"/>
+    <outline type="rss" text="Banktjanst.se" xmlUrl="https://www.banktjanst.se/feed/" htmlUrl="https://www.banktjanst.se/"/>
+    <outline type="rss" text="Banktjänster" xmlUrl="https://www.banktjanster.se/feed/" htmlUrl="https://www.banktjanster.se/"/>
+    <outline type="rss" text="Banktjänster" xmlUrl="https://www.banktjänster.se/feed/" htmlUrl="https://www.banktjänster.se/"/>
+    <outline type="rss" text="Byt sparande" xmlUrl="https://www.bytsparande.nu/feed/" htmlUrl="https://www.bytsparande.nu/"/>
+    <outline type="rss" text="Finansdoktorn" xmlUrl="https://www.finansdoktorn.se/feed/" htmlUrl="https://www.finansdoktorn.se/"/>
+    <outline type="rss" text="Fonder och stipendier" xmlUrl="https://www.fonder-och-stipendier.info/feed/" htmlUrl="https://www.fonder-och-stipendier.info/"/>
+    <outline type="rss" text="Guldkort" xmlUrl="https://www.guldkort.se/feed/" htmlUrl="https://www.guldkort.se/"/>
+    <outline type="rss" text="Hedge" xmlUrl="https://www.hedge.se/feed/" htmlUrl="https://www.hedge.se/"/>
+    <outline type="rss" text="Inkomstforsakring" xmlUrl="https://www.inkomstforsakring.nu/feed/" htmlUrl="https://www.inkomstforsakring.nu/"/>
+    <outline type="rss" text="Klimatfond" xmlUrl="https://www.klimatfond.se/feed/" htmlUrl="https://www.klimatfond.se/"/>
+    <outline type="rss" text="Sparrobot" xmlUrl="https://www.sparrobot.se/feed/" htmlUrl="https://www.sparrobot.se/"/>
+    <outline type="rss" text="Swingtrading.se" xmlUrl="https://www.swingtrading.se/feed/" htmlUrl="https://www.swingtrading.se/"/>
+  </outline>
+  <outline text="Bostad och boende">
+    <outline type="rss" text="Aspudden" xmlUrl="https://www.aspudden.se/feed/" htmlUrl="https://www.aspudden.se/"/>
+    <outline type="rss" text="Bostadformedlingen" xmlUrl="https://www.bostadformedlingen.se/?feed=rss2" htmlUrl="https://www.bostadformedlingen.se/"/>
+    <outline type="rss" text="Bostadsforum" xmlUrl="https://www.bostadsforum.se/feed/" htmlUrl="https://www.bostadsforum.se/"/>
+    <outline type="rss" text="Energideklarationer" xmlUrl="https://www.energideklarationer.se/feed/" htmlUrl="https://www.energideklarationer.se/"/>
+    <outline type="rss" text="Sök bostad" xmlUrl="https://www.sokbostad.se/feed/" htmlUrl="https://www.sokbostad.se/"/>
+    <outline type="rss" text="Styrelsen.se" xmlUrl="https://www.styrelsen.se/feed/" htmlUrl="https://www.styrelsen.se/"/>
+  </outline>
+  <outline text="Vardagsjuridik och skatt">
+    <outline type="rss" text="Avdragsguiden" xmlUrl="https://www.avdragsguiden.se/feed/" htmlUrl="https://www.avdragsguiden.se/"/>
+    <outline type="rss" text="Avsluta prenumeration" xmlUrl="https://www.avslutaprenumeration.se/feed/" htmlUrl="https://www.avslutaprenumeration.se/"/>
+    <outline type="rss" text="Bildabolaget" xmlUrl="https://www.bildabolaget.se/feed/" htmlUrl="https://www.bildabolaget.se/"/>
+    <outline type="rss" text="Lagar.se" xmlUrl="https://www.lagar.se/feed/" htmlUrl="https://www.lagar.se/"/>
+    <outline type="rss" text="Skatterätt.se" xmlUrl="https://www.skatterätt.se/feed/" htmlUrl="https://www.skatterätt.se/"/>
+    <outline type="rss" text="Skatteskolan" xmlUrl="https://www.skatteskolan.se/feed/" htmlUrl="https://www.skatteskolan.se/"/>
+    <outline type="rss" text="Vardagsjuridik" xmlUrl="https://www.vardagsjuridik.se/feed/" htmlUrl="https://www.vardagsjuridik.se/"/>
+  </outline>
+</body>
+</opml>
