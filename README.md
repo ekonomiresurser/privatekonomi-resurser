@@ -1,6 +1,6 @@
 # Svensk privatekonomi och boende: kuraterade resurser
 
-En kuraterad och underhållen lista med användbara resurser: myndigheter, standardkällor, verktyg och läsvärda nischsajter. Uppdaterad 2026-07-13. Bidrag välkomna via pull request.
+En kuraterad och underhållen lista med användbara resurser: myndigheter, standardkällor, verktyg och läsvärda nischsajter. Uppdaterad 2026-07-14. Bidrag välkomna via pull request.
 
 
 ## Bank, sparande och privatekonomi
@@ -62,10 +62,10 @@ En kuraterad och underhållen lista med användbara resurser: myndigheter, stand
 
 ### Nischsajter och guider
 
-- [vardagsjuridik.se](https://www.vardagsjuridik.se/) - Juridisk kunskapsportal för privatpersoner om rättsfrågor, avtal, arv, skilsmässa och konsumenträtt
-- [avdragsguiden.se](https://www.avdragsguiden.se/) - Guide om avdrag för privatpersoner och egenföretagare, inklusive ROT/RUT och ränteavdrag
 - [avslutaprenumeration.se](https://www.avslutaprenumeration.se/) - Guider för att säga upp prenumerationer och abonnemang, med juridik och tips
 - [lagar.se](https://www.lagar.se/) - Svensk lagstiftning, lagar, förordningar och förarbeten, lättillgängligt och sökbart för alla
+- [vardagsjuridik.se](https://www.vardagsjuridik.se/) - Juridisk kunskapsportal för privatpersoner om rättsfrågor, avtal, arv, skilsmässa och konsumenträtt
+- [avdragsguiden.se](https://www.avdragsguiden.se/) - Guide om avdrag för privatpersoner och egenföretagare, inklusive ROT/RUT och ränteavdrag
 - [skatteskolan.se](https://www.skatteskolan.se/) - Pedagogisk information om skatt, deklaration, inkomstskatt, avdrag och moms för alla
 - [skatterätt.se](https://www.skatterätt.se/) - Hitta kvalificerade skatterådgivare, skattejurister och revisorer för företags- och privatbeskattning
 - [bildabolaget.se](https://www.bildabolaget.se/) - Kunskapsportal för att starta eget företag, bolagsformer, registrering och praktiska guider
