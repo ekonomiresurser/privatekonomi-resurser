@@ -1,6 +1,6 @@
 # Svensk privatekonomi och boende: kuraterade resurser
 
-En kuraterad och underhållen lista med användbara resurser: myndigheter, standardkällor, verktyg och läsvärda nischsajter. Uppdaterad 2026-07-14. Bidrag välkomna via pull request.
+En kuraterad och underhållen lista med användbara resurser: myndigheter, standardkällor, verktyg och läsvärda nischsajter. Uppdaterad 2026-07-15. Bidrag välkomna via pull request.
 
 
 ## Bank, sparande och privatekonomi
@@ -29,6 +29,8 @@ En kuraterad och underhållen lista med användbara resurser: myndigheter, stand
 - [klimatfond.se](https://www.klimatfond.se/) - Jämför klimatfokuserade investeringsfonder, klimatavtryck och exkluderingskriterier för hållbart sparande
 - [banktjanst.nu](https://www.banktjanst.nu/) - Information om akuta bankärenden, öppettider, bankkontor och telefontider för banker
 
+*Följ ämnet: [daglig digest](https://ekonomiresurser.github.io/planet-bank/) · [Atom-feed](https://ekonomiresurser.github.io/planet-bank/feed.xml) · [Mastodon](https://mastodon.social/@privatekonomen)*
+
 
 ## Bostad och boende
 
@@ -44,10 +46,12 @@ En kuraterad och underhållen lista med användbara resurser: myndigheter, stand
 
 - [styrelsen.se](https://www.styrelsen.se/) - Kunskapsportal för styrelseledamöter i bostadsrättsföreningar med guider och juridisk vägledning
 - [bostadsforum.se](https://www.bostadsforum.se/) - Debatt- och åsiktsplats för boendefrågor med artiklar och krönikor om bostadsmarknaden
-- [aspudden.se](https://www.aspudden.se/) - Områdesguide för Aspudden med lediga bostäder, hyresrätter, bostadsrätter och lokala tips
 - [energideklarationer.se](https://www.energideklarationer.se/) - Information om energideklarationer, lagkrav, leverantörer och tips för fastighetsägare
+- [aspudden.se](https://www.aspudden.se/) - Områdesguide för Aspudden med lediga bostäder, hyresrätter, bostadsrätter och lokala tips
 - [bostadformedlingen.se](https://www.bostadformedlingen.se/) - Guide om hyresbostads- och kösystemet, bostadsköer, köpoäng, andrahand och förstahand
 - [sokbostad.se](https://www.sokbostad.se/) - Samlingsplats för bostadsannonser, hyresrätter, andrahandsuthyrning, lägenhetsbyte och nyproduktion i Sverige
+
+*Följ ämnet: [daglig digest](https://ekonomiresurser.github.io/planet-bostad/) · [Atom-feed](https://ekonomiresurser.github.io/planet-bostad/feed.xml)*
 
 
 ## Vardagsjuridik och skatt
@@ -69,6 +73,8 @@ En kuraterad och underhållen lista med användbara resurser: myndigheter, stand
 - [skatteskolan.se](https://www.skatteskolan.se/) - Pedagogisk information om skatt, deklaration, inkomstskatt, avdrag och moms för alla
 - [skatterätt.se](https://www.skatterätt.se/) - Hitta kvalificerade skatterådgivare, skattejurister och revisorer för företags- och privatbeskattning
 - [bildabolaget.se](https://www.bildabolaget.se/) - Kunskapsportal för att starta eget företag, bolagsformer, registrering och praktiska guider
+
+*Följ ämnet: [daglig digest](https://ekonomiresurser.github.io/planet-juridik/) · [Atom-feed](https://ekonomiresurser.github.io/planet-juridik/feed.xml)*
 
 
 ## Följ med RSS
